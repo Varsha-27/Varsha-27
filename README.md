@@ -1,24 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Varsha Singh 👋
 
-<!--
-**Varsha-27/Varsha-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🛠️ Tech Stack & Tools:
-react-#20232a.svg typescript-#007ACC.svg
+### 🚀 About Me
+
+I'm a passionate **Frontend Developer** dedicated to crafting beautiful, user-centric web experiences. I love turning complex problems into simple, elegant designs. While my heart lies in the frontend, I also have a solid foundation in backend technologies.
+
+- 🔭 I’m currently working on **Modern Web Dashboards**
+- 🌱 I’m currently exploring **new frontend architectures and creative coding**
+- ⚡ Fun fact: I love experimenting with new CSS frameworks!
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend (Secondary)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [varshasingh](https://www.linkedin.com/in/varsha-singh/)
+- 📧 **Email:** [varsha.singha2706@gmail.com](mailto:varsha.singha2706@gmail.com)
+
+---
+
+*"Building the web, one component at a time."*
 
 
 
-📫 How to reach me:
-💼 LinkedIn: https://www.linkedin.com/in/varsha-singh/
-📧 Email: varshasingha2706@gmail.com
+
+
