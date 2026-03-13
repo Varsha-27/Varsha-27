@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🛠️ Tech Stack & Tools:
+react-#20232a.svg typescript-#007ACC.svg
+
 
 
 📫 How to reach me:
