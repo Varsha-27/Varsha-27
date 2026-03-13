@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🛠️ Tech Stack & Tools:
+
+
+📫 How to reach me:
+💼 LinkedIn: https://www.linkedin.com/in/varsha-singh/
+📧 Email: varshasingha2706@gmail.com
